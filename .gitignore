@@ -21,3 +21,4 @@ config.xml
 sauce_connect.log
 *~
 themes/
+.idea/
